@@ -21,7 +21,7 @@ class UnivariateRegressionModel:
 
     def get_r2(self): 
 
-        return self.linear_model.score(X, y)
+        return self.linear_model.score(self.X, self.y)
 
     def get_corr_coef(self): 
 
@@ -31,6 +31,10 @@ class UnivariateRegressionModel:
     def predict(self, x): 
 
         return self.linear_model.predict(x)
+
+    def score(self, X, y): 
+
+        return self.linear_model.score(X, y)
 
     def summary_message(self): 
         beta = self.get_beta()
