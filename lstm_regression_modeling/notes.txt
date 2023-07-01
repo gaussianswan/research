@@ -1,0 +1,3 @@
+2023-07-01
+
+I noticed that with the LSTM model, that the values are not being predicted well. How would normalization help in this before sending it to LSTM?
