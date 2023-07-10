@@ -2,6 +2,7 @@ absl-py==1.4.0
 alembic==1.11.1
 alpaca-py==0.8.2
 appdirs==1.4.4
+arch==6.1.0
 array-record==0.4.0
 asttokens==2.2.1
 astunparse==1.6.3
