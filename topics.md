@@ -8,4 +8,5 @@ Reserch topics to tackle
 * Deep Neural Network modeling for regression of financial time series
 * Hierarchical clustering analysis on a set of stocks
 * Setting up simple pairs trading strategy using cointegration tests and other things.
+* How do you do simulations with the ARCH package? What simulations are available to us?
 
