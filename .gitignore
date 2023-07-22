@@ -117,7 +117,9 @@ __pypackages__/
 # Celery stuff
 celerybeat-schedule
 celerybeat.pid
-
+ml4t/wiki_prices.csv
+ml4t/assets.h5
+ml4t/wiki_stocks.csv
 # SageMath parsed files
 *.sage.py
 
