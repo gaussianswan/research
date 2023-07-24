@@ -122,7 +122,7 @@ ml4t/assets.h5
 ml4t/wiki_stocks.csv
 # SageMath parsed files
 *.sage.py
-
+*.h5
 # Environments
 .env
 .venv
