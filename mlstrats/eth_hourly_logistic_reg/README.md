@@ -1,0 +1,1 @@
+We are demonstrating how to set up an ETH/USD hourly strategy. The problem will be of a classification type where we want to predict the direction of returns over the next 12 hour period. We will use logistic regression in this example to do the classification. Then we will use the predictions from the logistic regression into a trading strategy and see the resulting performance.
